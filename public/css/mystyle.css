@@ -1,0 +1,22 @@
+.pagination li{
+/*	margin: auto;*/
+	/*width: 20%;*/
+	list-style: none;
+	float: left;
+}
+.pagination {
+/* margin:20%;*/
+}
+.key
+{
+	color: black !important;
+}
+.ic{
+	background-color: green !important;
+
+}
+.ic:hover{
+	transition: all 1s;
+	background-color: red !important;
+	box-shadow: 1px 1px 10px solic #ddd;
+}
